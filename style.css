@@ -17,6 +17,18 @@ header ul {
   display: flex;
   list-style: none;
   justify-content: space-around;
-  border: solid;
   width: 60vw;
+}
+
+figure img {
+  width: 20vw;
+}
+
+main {
+  background-color: #75442C;
+  display: flex;
+  flex-direction: column;
+  height: 90vh;
+  justify-content: center;
+  align-items: center;
 }/*# sourceMappingURL=style.css.map */
